@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Your Account - Cosmic Roller</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,.1);
+        }
+
+        h1 {
+            color: #1f4e79;
+            margin-top: 0;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #333;
+        }
+
+        ol {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .notice {
+            background: #eef6ff;
+            border-left: 4px solid #1f4e79;
+            padding: 15px;
+            margin: 25px 0;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #666;
+            border-top: 1px solid #ddd;
+            padding-top: 20px;
+        }
+
+        a {
+            color: #1f4e79;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Delete Your Account</h1>
+
+    <p>
+        If you would like to permanently delete your <strong>Cosmic Roller</strong> account
+        and all associated game data, please follow the steps below.
+    </p>
+
+    <h2>How to Request Account Deletion</h2>
+
+    <ol>
+        <li>Email us at <a href="mailto:apps@lawnscote.com">apps@lawnscote.com</a>.</li>
+        <li>Use the subject line <strong>"Delete My Account"</strong>.</li>
+        <li>Include the email address associated with your Apple / Google Sign-In account.</li>
+    </ol>
+
+    <p>
+        We will process your request as soon as possible.
+    </p>
+
+    <h2>What Data Will Be Deleted</h2>
+
+    <ul>
+        <li>Your player profile.</li>
+        <li>Your saved game progress.</li>
+        <li>Your achievements and game statistics.</li>
+        <li>Any other personal data associated with your game account.</li>
+    </ul>
+
+    <h2>Data Retention</h2>
+
+    <p>
+        Account deletion requests are normally processed within 7 days.
+        Backup data may be retained for up to <strong>30 days</strong> before being
+        permanently removed.
+    </p>
+
+    <div class="notice">
+        <strong>Important:</strong><br><br>
+        Deleting your game account only removes data stored by
+        <strong>Cosmic Roller</strong>. It <strong>does not delete your Google
+        account</strong> or any information stored by Google.
+    </div>
+
+    <h2>Need Help?</h2>
+
+    <p>
+        If you have any questions, please contact us at
+        <a href="mailto:apps@lawnscote.com">apps@lawnscote.com</a>.
+    </p>
+
+    <footer>
+        &copy; 2026 Stuart Fowler. All rights reserved.
+    </footer>
+
+</div>
+
+</body>
+</html>
